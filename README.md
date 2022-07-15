@@ -1,6 +1,6 @@
 # mindmap
 ## TODO:
-- populate the data structures branch.
-- revisit the object capability programming branch[^1].
+- Populate the graph structures branch.
+- Revisit the object capability programming branch[^1].
 
 [^1]: skip the agi-aliens part.
