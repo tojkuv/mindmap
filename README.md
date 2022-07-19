@@ -1,4 +1,4 @@
-# mindmap
+# Mindmap
 ## TODO:
 - Populate the graph structures branch.
 - Revisit the wasmtime and rust[^1].
