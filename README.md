@@ -1,6 +1,7 @@
 # mindmap
 ## TODO:
 - Populate the graph structures branch.
-- Revisit the mutex-centric programming branch[^1].
+- Revisit the wasmtime and rust[^1].
+  - other runtime standards and safe-by-default languages will likely try to compete.
 
 [^1]: ignore, skip, and omit the grabby agi-aliens part.
