@@ -1,6 +1,6 @@
 # mindmap
 ## TODO:
 - Populate the graph structures branch.
-- Revisit the object capability programming branch[^1].
+- Revisit the mutex-centric programming branch[^1].
 
 [^1]: ignore, skip, and omit the grabby agi-aliens part.
