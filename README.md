@@ -1,4 +1,4 @@
-# Cytoscape Mindmap
+# Cytoscape Mindmap (incomplete sketch)
 
 ### TODO:
 - Populate the graph structures branch
