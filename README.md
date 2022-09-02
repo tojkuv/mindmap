@@ -3,7 +3,7 @@
 ### TODO:
 
 - Computation theory knowledge-base.
-- Research field branches. [^1]
+- Research field branches.
 
 # Written and Audio Books
 
