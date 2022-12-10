@@ -1,8 +1,6 @@
-# Cytoscape Mindmap (incomplete sketch)
-
 ### TODO:
 
-- Computation theory knowledge-base.
+- Computation theory.
 
 # Written Books and Audio Books
 
