@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mindmap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mindmap/Mindmap.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
