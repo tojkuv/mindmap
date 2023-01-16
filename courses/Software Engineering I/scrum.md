@@ -1,7 +1,11 @@
 # scrum (sprint development cycle)
 
 ## framework
+
+
+
 ### definition
+
 - done - a features is considered done when a feature is a tested and potentially shippable product increment
   - questions the be answered:
     - functionality has been completed based on the user stories completed and the agreed to sprint goals
@@ -10,18 +14,16 @@
       - has the customer been trained?
       - does it integrate with out features that have not been developed?
       - has there been a change in managemennt communication?
-### principles
-### values
-### feature cycle
 - product backlog => sprint backlog => sprint implementation => potentially a shipable version
 
-
 ## attributes
+
 - organized meetings
 - time-boxed iterations (~7..30 days range) that may or may not remain static until the end of the product's development
   - work not completed in an iteration gets added back into the product backlog
 
 ## artifacts
+
 - **product backlog** - prioriitized list of features to be implemented into the product
 - **sprint backlog** - a temporary backlog that only lasts until the end of the respective sprint
   - each feature contains tasks that must be complete before the feature is considered done
@@ -37,6 +39,7 @@
 - **sprint** - a timeboxed iteration where thhe development of user stories gets done
 
 ## roles
+
 - **scrum master**
   - responsibilities:
     - mentors the team members
@@ -48,17 +51,17 @@
     - creates user stories for the backlog items
     - picks the product backlog items to move to the sprint backlog
 - **cross-functional team**
-    - responsibilities:
-      - implement the user stories created by the product owner into deliverable functionality
-      - self-organized and product-focused
-    - roles:
-      - software developers
-      - software testing
-      - development operations
-      - user testing
-
+  - responsibilities:
+    - implement the user stories created by the product owner into deliverable functionality
+    - self-organized and product-focused
+  - roles:
+    - software developers
+    - software testing
+    - development operations
+    - user testing
 
 ## meetings
+
 - planning (first meeting)
   - product owner and the team timebox a sprint and agree on the features to pull from the product backlog into the sprint backlog
   - the time allocation should be 1 hour per week of sprint work.
@@ -82,8 +85,8 @@
     - what hasn't been working well in the sprint and how do we improve?
     - time allocation should not exceed more than 2 hours per week of sprint
 
-
 ## notes:
+
 - a release may or may not be possible after each sprint
 - scrum was created for software development, but was adopted to to cycle work of other fields
 - stakeholders provide immediate feedback
@@ -92,6 +95,7 @@
 - customers provide immediate feedback
 
 ## alternative development frameworks
+
 - waterfall (plan drive develpoment) ***(too rigid and inefficient)***
   - step 1: analysis from customer interaction
   - step 2: design
