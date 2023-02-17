@@ -7,14 +7,14 @@
 ### definition
 
 - done - a features is considered done when a feature is a tested and potentially shippable product increment
-  - questions the be answered:
+  - questions to be answered:
     - functionality has been completed based on the user stories completed and the agreed to sprint goals
-    - quality has been verified with a hign degree of confidence
+    - quality has been verified with a high degree of confidence
     - can the features be shipped? questions to consider:
       - has the customer been trained?
-      - does it integrate with out features that have not been developed?
-      - has there been a change in managemennt communication?
-- product backlog => sprint backlog => sprint implementation => potentially a shipable version
+      - does it integrate without features that have not been developed?
+      - has there been a change in management communication?
+- product backlog => sprint backlog => sprint implementation => potentially a shippable version
 
 ## attributes
 
@@ -24,7 +24,7 @@
 
 ## artifacts
 
-- **product backlog** - prioriitized list of features to be implemented into the product
+- **product backlog** - prioritized list of features to be implemented into the product
 - **sprint backlog** - a temporary backlog that only lasts until the end of the respective sprint
   - each feature contains tasks that must be complete before the feature is considered done
 - **shippable product incremet** - completed functionality that has been completed, tested and demoed for the given sprint and can be deplaoyed to production
@@ -35,8 +35,8 @@
     - body:
       - \<as a \<user role\> i want to \<goal\> so that \<benefit\>\>
     - acceptance criteria:
-      - a list of [and/or] elements, functionalities, spesification compliances that must be implemented before the user story can be considered complete
-- **sprint** - a timeboxed iteration where thhe development of user stories gets done
+      - a list of [and/or] elements, functionalities, specification compliance that must be implemented before the user story can be considered complete
+- **sprint** - a timeboxed iteration where the development of user stories gets done
 
 ## roles
 
@@ -76,8 +76,8 @@
 - sprint review (demonstration meeting)
   - completed stories are demonstrated to the product owner and other stakeholders
   - feedback is collected from the stakeholders for the next sprint
-    - information flow is bi-directional
-  - time allocation should not exceed more that 1 hour per week of sprint
+    - information flow is bidirectional
+  - time allocation should not exceed more than 1 hour per week of sprint
 - sprint retrospective (last meeting) - teams review the completed features with the stakeholders for feedback
   - this feedback is used to [and] pick the next items from the backlog, improve the approach of the next sprint
   - questions to be answered:
@@ -96,21 +96,21 @@
 
 ## alternative development frameworks
 
-- waterfall (plan drive develpoment) ***(too rigid and inefficient)***
+- waterfall (plan drive development) ***(too rigid and inefficient)***
   - step 1: analysis from customer interaction
   - step 2: design
   - step 3: testing
-  - step 5: production from customer iteraction with product
+  - step 5: production from customer interaction with product
   - disadvantages:
     - no immediate feedback
     - costly to implement any changes late in the process
     - no way to inspect and adapt or pivot
     - customers were usually kept away from the project until the very end
-- cynefin framework domains (non-developpment cycle domains)
+- cynefin framework domains (non-development cycle domains)
   - complex - exploratory
-  - compilcated  - specialized knowledge
+  - complicated  - specialized knowledge
   - simple - easy to solve
   - chaotic - emergencies
-  - disorder - unknown domain that must be dissambiguated into a known domain
+  - disorder - unknown domain that must be disambiguated into a known domain
     - this is usually done by breaking down the situation into smaller components and categorizing these components
 - kanban (interrupt-drive overlay)
